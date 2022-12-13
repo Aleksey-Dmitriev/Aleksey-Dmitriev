@@ -2,5 +2,7 @@
 
 ## I'm a beginner QA engineer
 
+## My resume
+
 ### Tools
-![SQL](https://img.shields.io/badge/-SQL-bc1531?style=for-the-badge&logo=appveyor)
+![Postman](https://img.shields.io/badge/-Postman-080E12?style=for-the-badge&logo=postman)
