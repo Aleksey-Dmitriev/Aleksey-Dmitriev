@@ -2,4 +2,5 @@
 
 ## I'm a beginner QA engineer
 
-Tools
+### Tools
+![SQL](https://img.shields.io/badge/-SQL-bc1538?style=for-the-badge&logo=appveyor)
