@@ -4,7 +4,7 @@
 
 ## My resume
 
-### Tools
+## Tools
 ![Postman](https://img.shields.io/badge/-Postman-080E12?style=for-the-badge&logo=postman)
 ![Jira](https://img.shields.io/badge/-Jira-080E12?style=for-the-badge&logo=Jira&logoColor=0052CC)
 ![GitKraken](https://img.shields.io/badge/-GitKraken-080E12?style=for-the-badge&logo=GitKraken)
@@ -13,4 +13,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-080E12?style=for-the-badge&logo=MySQL)
 ![TestIT](https://img.shields.io/badge/-TestIT-080E12?style=for-the-badge&logo=TestIT)
 ![GitBash](https://img.shields.io/badge/-GitBash-080E12?style=for-the-badge&logo=GitBash)
-![QASE](https://img.shields.io/badge/-QASE-080E12?style=for-the-badge&logo=QASE) 
+
+## Follow Me
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-080E12?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)
