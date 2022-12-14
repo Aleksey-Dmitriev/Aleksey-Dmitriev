@@ -6,10 +6,11 @@
 
 ### Tools
 ![Postman](https://img.shields.io/badge/-Postman-080E12?style=for-the-badge&logo=postman)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira)
-![GitKraken](https://img.shields.io/badge/-GitKraken-080E12?style=flat-square&logo=GitKraken)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-080E12?style=flat-square&logo=PostgreSQL)
-![GitHub](https://img.shields.io/badge/-GitHub-080E12?style=flat-square&logo=GitHub)
-![MySQL](https://img.shields.io/badge/-MySQL-080E12?style=flat-square&logo=MySQL)
-![TestIT](https://img.shields.io/badge/-TestIT-080E12?style=flat-square&logo=TestIT)
-![GitBash](https://img.shields.io/badge/-GitBash-080E12?style=flat-square&logo=GitBash)
+![Jira](https://img.shields.io/badge/-Jira-080E12?style=for-the-badge&logo=Jira&logoColor=0052CC)
+![GitKraken](https://img.shields.io/badge/-GitKraken-080E12?style=for-the-badge&logo=GitKraken)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-080E12?style=for-the-badge&logo=PostgreSQL)
+![GitHub](https://img.shields.io/badge/-GitHub-080E12?style=for-the-badge&logo=GitHub)
+![MySQL](https://img.shields.io/badge/-MySQL-080E12?style=for-the-badge&logo=MySQL)
+![TestIT](https://img.shields.io/badge/-TestIT-080E12?style=for-the-badge&logo=TestIT)
+![GitBash](https://img.shields.io/badge/-GitBash-080E12?style=for-the-badge&logo=GitBash)
+![QASE](https://img.shields.io/badge/-QASE-080E12?style=for-the-badge&logo=QASE) 
