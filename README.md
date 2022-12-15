@@ -1,6 +1,6 @@
 ![Header](https://github.com/Alex108108/alex108108/blob/main/assets/Aleksey%20Dmitriev_2.jpg)
 
-## I'm a beginner QA engineer
+## I'm a beginner QA engineer. Here is my portfolio
 
 ## My resume
 
@@ -13,6 +13,16 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-080E12?style=for-the-badge&logo=MySQL)
 ![TestIT](https://img.shields.io/badge/-TestIT-080E12?style=for-the-badge&logo=TestIT)
 ![GitBash](https://img.shields.io/badge/-GitBash-080E12?style=for-the-badge&logo=GitBash)
+
+## Testing Documentation
+
+- [Checklists](https://github.com/Alex108108/Checklists)
+- [Test Cases](https://github.com/Alex108108/Test-cases)
+- [Bug Reports](https://github.com/Alex108108/Bug-reports)
+- [Postman Collections](https://github.com/Alex108108/Postman)
+- [SQL Queries](https://github.com/Alex108108/SQL)
+- [Others Artefacts of Studying Process](https://github.com/Alex108108/Other_artefacts)
+
 
 ## Follow Me
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-080E12?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)
