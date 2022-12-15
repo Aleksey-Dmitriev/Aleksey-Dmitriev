@@ -1,10 +1,10 @@
 ![Header](https://github.com/Alex108108/alex108108/blob/main/assets/Aleksey%20Dmitriev_2.jpg)
 
-## I'm a beginner QA engineer. Here is my portfolio
+## I'm a beginner QA engineer. Here is my Portfolio
 
 ## My resume
 
-## Tools
+## My Tools
 ![Postman](https://img.shields.io/badge/-Postman-080E12?style=for-the-badge&logo=postman)
 ![Jira](https://img.shields.io/badge/-Jira-080E12?style=for-the-badge&logo=Jira&logoColor=0052CC)
 ![GitKraken](https://img.shields.io/badge/-GitKraken-080E12?style=for-the-badge&logo=GitKraken)
