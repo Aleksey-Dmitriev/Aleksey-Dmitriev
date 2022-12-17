@@ -11,8 +11,11 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-080E12?style=for-the-badge&logo=PostgreSQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-080E12?style=for-the-badge&logo=GitHub)
 ![MySQL](https://img.shields.io/badge/-MySQL-080E12?style=for-the-badge&logo=MySQL)
+
 ![TestIT](https://img.shields.io/badge/-TestIT-080E12?style=for-the-badge&logo=TestIT)
 ![GitBash](https://img.shields.io/badge/-GitBash-080E12?style=for-the-badge&logo=GitBash)
+![XMind](https://img.shields.io/badge/-XMind-080E12?style=for-the-badge&logo=XMind)
+![QASE](https://img.shields.io/badge/-qase-080E12?style=for-the-badge&logo=qase)
 
 ## Testing Documentation
 
@@ -24,5 +27,9 @@
 - [Others Artefacts of Studying Process](https://github.com/Alex108108/Other_artefacts)
 
 
-## Follow Me
+## Contact Me
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-080E12?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)
+
+### dmitriev525@gmail.com
+
+ ### [Telegram](http://t.me/dmitriev525)
