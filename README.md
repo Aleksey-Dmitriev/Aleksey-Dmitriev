@@ -26,6 +26,9 @@
 - [SQL Queries](https://github.com/Alex108108/SQL)
 - [Others Artefacts of Studying Process](https://github.com/Alex108108/Other_artefacts)
 
+## My сertificates
+- [Introduction to Software Testing](https://open.spbstu.ru/certificate/02SOFTTEST-0122-16.pdf)
+- [EF SET English Level](https://www.efset.org/cert/x7sF89)
 
 ## Contact Me
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-080E12?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)
