@@ -2,8 +2,6 @@
 
 ## I'm a beginner QA engineer. Here is my Portfolio
 
-## My resume
-
 ## My Tools
 ![Postman](https://img.shields.io/badge/-Postman-080E12?style=for-the-badge&logo=postman)
 ![Jira](https://img.shields.io/badge/-Jira-080E12?style=for-the-badge&logo=Jira&logoColor=0052CC)
