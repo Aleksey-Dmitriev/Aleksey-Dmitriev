@@ -25,6 +25,7 @@
 - [Others Artefacts of Studying Process](https://github.com/Alex108108/Other_artefacts)
 
 ## My сertificates
+- [QA engineer. Basic](https://drive.google.com/file/d/1H_eaVz45nzdxvZJtkTz1nV0J-vsOMq1U/view?usp=share_link)
 - [Introduction to Software Testing](https://open.spbstu.ru/certificate/02SOFTTEST-0122-16.pdf)
 - [EF SET English Level](https://www.efset.org/cert/x7sF89)
 
