@@ -30,8 +30,8 @@
 - [EF SET English Level](https://www.efset.org/cert/x7sF89)
 
 ## Contact Me
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-080E12?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-080E12?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://linkedin.com/in/alexqa108)
 
-### dmitriev525@gmail.com
+### dmitrievqa@gmail.com
 
  ### [Telegram](http://t.me/dmitriev525)
