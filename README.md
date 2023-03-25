@@ -29,6 +29,9 @@
 - [Introduction to Software Testing](https://open.spbstu.ru/certificate/02SOFTTEST-0122-16.pdf)
 - [EF SET English Level](https://www.efset.org/cert/x7sF89)
 
+## My resume
+- [Resume](https://drive.google.com/file/d/1f2uv4OvY35_Te-0RtS_q90I6KP3mo2ky/view?usp=sharing)
+
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-080E12?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://linkedin.com/in/alexqa108)
 
