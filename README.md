@@ -1,6 +1,6 @@
 ![Header](https://github.com/Alex108108/alex108108/blob/main/assets/Aleksey%20Dmitriev_2.jpg)
 
-## I'm a beginner QA engineer. Here is my Portfolio
+## I'm a QA engineer. Here is my Portfolio
 
 ## My Tools
 ![Postman](https://img.shields.io/badge/-Postman-080E12?style=for-the-badge&logo=postman)
